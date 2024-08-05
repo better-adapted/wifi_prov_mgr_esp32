@@ -1,0 +1,7 @@
+*.o
+*.log
+*.old
+*.map
+*.elf
+/build
+/managed_components
